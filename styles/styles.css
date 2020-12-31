@@ -630,7 +630,7 @@ img {
 }
 
 .chat {
-  width: calc(68% - 60px);
+  width: 68%;
   background: #fff;
 }
 
